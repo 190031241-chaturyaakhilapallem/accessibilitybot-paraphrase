@@ -45,8 +45,8 @@ const Main = () => {
         </ul>
         
       </nav>
-      <div class="Text-Summarization-Bot">
-      <h1>Text Summarization Bot</h1>
+      <div class="Text-Paraphrasing-Bot">
+      <h1>Text Paraphrasing Bot</h1>
       </div>
 
       <div className="main-container">
